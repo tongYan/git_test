@@ -2,3 +2,5 @@
 tt
 new branch master`:wq
 new branch f1
+branch master
+branch f2
